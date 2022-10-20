@@ -1,0 +1,15 @@
+D:\Developer\C#\practice\course\ejercicio1\bin\Debug\net6.0\ejercicio1.exe
+D:\Developer\C#\practice\course\ejercicio1\bin\Debug\net6.0\ejercicio1.deps.json
+D:\Developer\C#\practice\course\ejercicio1\bin\Debug\net6.0\ejercicio1.runtimeconfig.json
+D:\Developer\C#\practice\course\ejercicio1\bin\Debug\net6.0\ejercicio1.dll
+D:\Developer\C#\practice\course\ejercicio1\bin\Debug\net6.0\ejercicio1.pdb
+D:\Developer\C#\practice\course\ejercicio1\obj\Debug\net6.0\ejercicio1.csproj.AssemblyReference.cache
+D:\Developer\C#\practice\course\ejercicio1\obj\Debug\net6.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\C#\practice\course\ejercicio1\obj\Debug\net6.0\ejercicio1.AssemblyInfoInputs.cache
+D:\Developer\C#\practice\course\ejercicio1\obj\Debug\net6.0\ejercicio1.AssemblyInfo.cs
+D:\Developer\C#\practice\course\ejercicio1\obj\Debug\net6.0\ejercicio1.csproj.CoreCompileInputs.cache
+D:\Developer\C#\practice\course\ejercicio1\obj\Debug\net6.0\ejercicio1.dll
+D:\Developer\C#\practice\course\ejercicio1\obj\Debug\net6.0\refint\ejercicio1.dll
+D:\Developer\C#\practice\course\ejercicio1\obj\Debug\net6.0\ejercicio1.pdb
+D:\Developer\C#\practice\course\ejercicio1\obj\Debug\net6.0\ejercicio1.genruntimeconfig.cache
+D:\Developer\C#\practice\course\ejercicio1\obj\Debug\net6.0\ref\ejercicio1.dll
